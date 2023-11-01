@@ -1,5 +1,4 @@
-# TIL-MySQL
- # <img src = "https://cdn-icons-png.flaticon.com/128/4869/4869749.png" width = "37" height = "37"> Today I Learned <img src = "https://cdn-icons-png.flaticon.com/128/4869/4869749.png" width = "37" height = "37" >
+# <img src = "https://cdn-icons-png.flaticon.com/128/4869/4869749.png" width = "37" height = "37"> Today I Learned <img src = "https://cdn-icons-png.flaticon.com/128/4869/4869749.png" width = "37" height = "37" >
 
 ### <img src = "https://cdn-icons-png.flaticon.com/128/4341/4341050.png" width = "30" height = "30" > PERIOD 
 - 23.11.01 ~  
